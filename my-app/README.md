@@ -1,0 +1,1 @@
+Ishga tushurish uchun Git-bash terminalini oching keyin esa "cd my-app" yozing song "npm run dev" yozing, Json server ochish uchun boshqs terminalga oting "cd my-app" yozing keyin "npx json-server db.json --port 5000" yozing, tayor kod ishlashi kerak.
